@@ -1,8 +1,0 @@
-/**
- * 
- */
-
-function hello()
-{
-	alert('hi')
-}
